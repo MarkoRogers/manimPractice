@@ -9,3 +9,4 @@ Updated on aligned code with recent conventions
 Updated on renamed variables for clarity
 Updated on refactored code for better modularity
 Updated on cleaned up redundant code
+Updated on optimized some function performance
