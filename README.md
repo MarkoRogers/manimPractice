@@ -18,3 +18,4 @@ Updated on updated code to follow style guide
 Updated on updated code to follow style guide
 Updated on fixed minor bugs
 Updated on cleaned up import statements
+Updated on updated documentation to reflect changes
